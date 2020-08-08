@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "This is a complete test "
+title: This is a complete test for Katey and Dan
 date: 2020-08-08T01:12:48.276Z
 description: Trying something new for my friends at the VF
 featuredpost: true

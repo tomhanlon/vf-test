@@ -10,7 +10,7 @@ tags:
   - blog
   - netlify
 ---
-![bye 2 u](/img/933cb40a-657b-4a54-9fa4-667edabbbd21-1-.jpg "Bye Felicia")
+![bye 2 u](/img/1.jpg "Bye Felicia")
 
 ### \*\*\*\*I have a 2020 update to this story, how it all panned out, at the end.\*\*\*\*
 

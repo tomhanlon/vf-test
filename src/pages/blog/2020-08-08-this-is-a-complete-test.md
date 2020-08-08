@@ -4,13 +4,13 @@ title: This is a complete test for Katey and Dan
 date: 2020-08-08T01:12:48.276Z
 description: Trying something new for my friends at the VF
 featuredpost: true
-featuredimage: /img/933cb40a-657b-4a54-9fa4-667edabbbd21-1-.jpg
+featuredimage: /img/2.jpg
 tags:
   - test
   - blog
   - netlify
 ---
-![bye 2 u](/img/1.jpg "Bye Felicia")
+![bye 2 u](/img/2.jpg "Bye Felicia")
 
 ### \*\*\*\*I have a 2020 update to this story, how it all panned out, at the end.\*\*\*\*
 
